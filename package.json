@@ -1,5 +1,5 @@
 {
-  "name": "extnd",
+  "name": "node-extnd",
   "version": "0.0.3",
   "description": "Multiple inheritance and _super in javascript",
   "main": "extnd.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/DominicTobias/extnd.git"
+    "url": "git://github.com/lordofthelake/extnd.git"
   },
   "keywords": [
     "javascript",
