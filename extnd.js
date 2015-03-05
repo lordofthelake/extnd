@@ -14,7 +14,7 @@
 	var REF = '__extndmrk__';
  
 	// The base Class implementation (does nothing)
-	this.Class = function(){};
+	var Class = function(){};
 
 	// Create a new Class that inherits from this class
 	Class.extnd = function (protoProps) {
@@ -122,4 +122,4 @@
 		window.Class = Class;
 	}
 
-}).call(this);
+}).call();
